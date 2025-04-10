@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Soham, a passionate Data Engineer and Data Sci
 
 ### 👨‍💻 About Me
 
-I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligence) and have worked on a variety of data-driven projects, ranging from ETL pipelines to predictive modeling and AI-powered applications. My skills include:
+I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligence) and have worked on a variety of data-driven projects, ranging from ETL pipelines to predictive modeling and AI-powered applications.
 
 ### 🔧 Languages & Tools
 - **Programming Languages**: Python, R, SQL
