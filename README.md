@@ -22,9 +22,9 @@ I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligen
 
 - Capstone project for my ALY6980 class, focusing on optimizing the shipping process at a brewery. I applied data analytics and optimization techniques to reduce shipping costs and improve efficiency.
 
-### 3. **[Employee Attrition Prediction](https://github.com/SohamMane812/GCP-Data-Warehousing)**
+### 3. **[Google Data Warehousing](https://github.com/SohamMane812/GCP-Data-Warehousing)**
 
-- A machine learning project to predict employee attrition using employee-related features. The project involves feature engineering, model training, and the identification of key factors affecting retention.
+- This project contains the code and setup for a Data Pipeline built using Google Cloud Platform services. The pipeline extracts, transforms, and loads (ETL) data into Google Cloud Storage (GCS), processes it using Cloud Data Fusion, and stores it in BigQuery for analysis. Additionally, the processed data is visualized in Google Looker for reporting and insights.
 
 ### 4. **[Serverless ETL Pipeline for Loan Approval Data](https://github.com/SohamMane812/AWS-Data-Warehousing)**
 
