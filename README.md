@@ -40,4 +40,4 @@ Feel free to connect with me:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohammane812/)
 - [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sohammane01@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)(https://personal-port-blush.vercel.app/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://personal-port-blush.vercel.app/)
