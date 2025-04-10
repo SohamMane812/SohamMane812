@@ -18,7 +18,7 @@ I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligen
 
 - A project where I created an LLM-powered chatbot to query hospital discharge data. I used LangChain and Snowflake for querying and Pinecone for semantic search.
 
-### 2. **[Optimization of Wholesaler Shipping at Brewery](link-to-repo)**
+### 2. **[Optimization of Wholesaler Shipping at Brewery](https://github.com/SohamMane812/Optimization-of-Wholesaler-Shipping-at-Brewery)**
 
 - Capstone project for my ALY6980 class, focusing on optimizing the shipping process at a brewery. I applied data analytics and optimization techniques to reduce shipping costs and improve efficiency.
 
