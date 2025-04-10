@@ -1,18 +1,43 @@
+## Hi there, I'm Soham Mane 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohammane812/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohammane01@gmail.com) 
+Welcome to my GitHub profile! I'm Soham, a passionate Data Engineer and Data Scientist with a focus on building scalable data pipelines, machine learning models, and automation tools. I enjoy solving complex data problems and optimizing systems to extract actionable insights.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SohamMane812&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SohamMane812&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMane812&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SohamMane812&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligence) and have worked on a variety of data-driven projects, ranging from ETL pipelines to predictive modeling and AI-powered applications. My skills include:
 
----
-[![](https://visitcount.itsvg.in/api?id=SohamMane812&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔧 Languages & Tools
+- **Programming Languages**: Python, R, SQL
+- **Tools & Frameworks**: Apache Airflow, Apache Spark, AWS (S3, Lambda, Glue, Redshift, Athena, Quicksight), GCP (Cloud Storage, BigQuery, Cloud Fusion, Cloud Composer, Looker), Power BI, Tableau
+- **Databases**: Snowflake, Pinecone, MySQL, PostgreSQL, SQLite
+- **Machine Learning**: Supervised Learning, Unsupervised Learning
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💼 Featured Projects
+
+### 1. **[LLM-Powered Natural Language Interface for Hospital Discharge Data](https://github.com/SohamMane812/Agentic_Healthcare_Chatbot)**
+
+- A project where I created an LLM-powered chatbot to query hospital discharge data. I used LangChain and Snowflake for querying and Pinecone for semantic search.
+
+### 2. **[Optimization of Wholesaler Shipping at Brewery](link-to-repo)**
+
+- Capstone project for my ALY6980 class, focusing on optimizing the shipping process at a brewery. I applied data analytics and optimization techniques to reduce shipping costs and improve efficiency.
+
+### 3. **[Employee Attrition Prediction](https://github.com/SohamMane812/GCP-Data-Warehousing)**
+
+- A machine learning project to predict employee attrition using employee-related features. The project involves feature engineering, model training, and the identification of key factors affecting retention.
+
+### 4. **[Serverless ETL Pipeline for Loan Approval Data](https://github.com/SohamMane812/AWS-Data-Warehousing)**
+
+- Built an AWS serverless ETL pipeline using AWS Lambda, S3, and Redshift to process loan approval data. This project demonstrates the use of cloud services for data processing and storage.
+
+### 5. **[Automated Data Pipeline for YouTube Analytics](https://github.com/SohamMane812/Automated-Data-Pipeline-for-YouTube-Analytics-Using-AWS)**
+
+- A serverless ETL pipeline using AWS Lambda, Glue, and PySpark to process YouTube trending video data. This project showcases automation and real-time analytics for large-scale data sources.
+
+### 📫 Contact
+
+Feel free to connect with me:
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohammane812/)
+- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sohammane01@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)(https://personal-port-blush.vercel.app/)
