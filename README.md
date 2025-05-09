@@ -14,23 +14,27 @@ I am currently pursuing a Master's in Data Analytics (Applied Machine Intelligen
 
 ### 💼 Featured Projects
 
-### 1. **[LLM-Powered Natural Language Interface for Hospital Discharge Data](https://github.com/SohamMane812/Agentic_Healthcare_Chatbot)**
+### 1. **[Hadoop EcoSystem Data Pipeline](https://github.com/SohamMane812/HDFS-Spark-Kafka-Pipeline)**
+
+- This project demonstrates a complete big data analytics solution that processes the NYC Yellow Taxi dataset (200M+ rows, 22+ GB) through both batch and streaming pipelines. The architecture leverages core components of the Hadoop ecosystem to provide distributed storage, efficient processing, and real-time analytics capabilities.
+
+### 2. **[LLM-Powered Natural Language Interface for Hospital Discharge Data](https://github.com/SohamMane812/Agentic_Healthcare_Chatbot)**
 
 - A project where I created an LLM-powered chatbot to query hospital discharge data. I used LangChain and Snowflake for querying and Pinecone for semantic search.
 
-### 2. **[Optimization of Wholesaler Shipping at Brewery](https://github.com/SohamMane812/Optimization-of-Wholesaler-Shipping-at-Brewery)**
+### 3. **[Optimization of Wholesaler Shipping at Brewery](https://github.com/SohamMane812/Optimization-of-Wholesaler-Shipping-at-Brewery)**
 
 - Capstone project for my ALY6980 class, focusing on optimizing the shipping process at a brewery. I applied data analytics and optimization techniques to reduce shipping costs and improve efficiency.
 
-### 3. **[Google Data Warehousing](https://github.com/SohamMane812/GCP-Data-Warehousing)**
+### 4. **[Google Data Warehousing](https://github.com/SohamMane812/GCP-Data-Warehousing)**
 
 - This project contains the code and setup for a Data Pipeline built using Google Cloud Platform services. The pipeline extracts, transforms, and loads (ETL) data into Google Cloud Storage (GCS), processes it using Cloud Data Fusion, and stores it in BigQuery for analysis. Additionally, the processed data is visualized in Google Looker for reporting and insights.
 
-### 4. **[Serverless ETL Pipeline for Loan Approval Data](https://github.com/SohamMane812/AWS-Data-Warehousing)**
+### 5. **[Serverless ETL Pipeline for Loan Approval Data](https://github.com/SohamMane812/AWS-Data-Warehousing)**
 
 - Built an AWS serverless ETL pipeline using AWS Lambda, S3, and Redshift to process loan approval data. This project demonstrates the use of cloud services for data processing and storage.
 
-### 5. **[Automated Data Pipeline for YouTube Analytics](https://github.com/SohamMane812/Automated-Data-Pipeline-for-YouTube-Analytics-Using-AWS)**
+### 6. **[Automated Data Pipeline for YouTube Analytics](https://github.com/SohamMane812/Automated-Data-Pipeline-for-YouTube-Analytics-Using-AWS)**
 
 - A serverless ETL pipeline using AWS Lambda, Glue, and PySpark to process YouTube trending video data. This project showcases automation and real-time analytics for large-scale data sources.
 
