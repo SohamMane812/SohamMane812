@@ -6,7 +6,7 @@
 
 ![](assets/header2.gif)
 
-## **Hi there, I'm Soham Mane!**  <img src="assets/hello.gif" alt="Hello" width="40">
+## **Hi there, I'm Soham Mane!**  <img src="/hello.gif" alt="Hello" width="100">
 
 I'm a **Data Engineer and Data Scientist** passionate about solving real-world problems using data. I design and build **scalable data pipelines**, **ML models**, and **automated analytics solutions** across cloud platforms like **AWS**, **GCP**, and **Azure**. My goal is to create intelligent systems that are both impactful and efficient.
 
