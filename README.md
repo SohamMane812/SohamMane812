@@ -13,7 +13,7 @@
 
 I'm a **Data Analyst and Data Engineer** passionate about solving real-world problems using data. I design and build **scalable data pipelines**, **ML models**, and **automated analytics solutions** across cloud platforms like **AWS**, **GCP**, and **Azure**. My goal is to create intelligent systems that are both impactful and efficient.
 
-Currently pursuing my Master’s in Data Analytics (Applied Machine Intelligence) in Boston, USA. Feel free to connect on <a href="https://www.linkedin.com/in/sohammane812/" target="_blank">
+🎓 Graduated with a **Master’s in Data Analytics (Applied Machine Intelligence)** from Northeastern University, Boston, USA. Feel free to connect with me on <a href="https://www.linkedin.com/in/sohammane812/" target="_blank">
 <img src="./linkedin.png" alt="LinkedIn" width="20" height="20"></a>.
 __________________________________________________________________________________________________________________ 
 <p align="center">
