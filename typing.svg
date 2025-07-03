@@ -1,0 +1,28 @@
+<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 36px;
+      fill: #0e75b6;
+    }
+    .cursor {
+      animation: blink 1s step-start infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 10ch }
+    }
+    .typing {
+      overflow: hidden;
+      white-space: nowrap;
+      width: 10ch;
+      animation: typing 2s steps(10) forwards;
+    }
+  </style>
+
+  <text x="50" y="60" class="text typing">Soham Mane</text>
+  <text x="365" y="60" class="text cursor">|</text>
+</svg>
