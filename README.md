@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohamMane812&label=Profile%20views&color=0e75b6&style=flat" alt="SohamMane812" /> </p>
 
 <div align="center">
-  <h3>🌐 Do Visit: <a href="https://soham-mane.vercel.app" target="_blank">soham-mane.vercel.app</a></h3>
+  <h3>🌐 Do Visit: <a href="https://soham-bio.vercel.app/" target="_blank">Portfolio Website</a></h3>
 </div>
 
 <p align="center">
